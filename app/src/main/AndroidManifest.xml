@@ -1,0 +1,56 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="english.grammar.quizapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="English Quiz"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name=".HomeActivity"
+            android:theme="@style/fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".QuizActivity"
+            android:theme="@style/fullscreen" />
+        <activity
+            android:name=".LevelActivity"
+            android:theme="@style/fullscreen" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/fullscreen" />
+
+
+
+        <activity
+            android:name=".SpokenActivity"
+            android:theme="@style/fullscreen"
+            android:label="Words Spoken Game" />
+        <activity
+            android:name=".OptionActivity"
+            android:theme="@style/fullscreen" />
+        <activity
+            android:name=".MoreAppsActivity"
+            android:label="More Apps" />
+        <activity android:name=".TextToSpeak" android:label="Text To Speak" />
+        <activity android:name=".SpeakToText" android:label="Speak To Text">
+
+        </activity>
+
+    </application>
+
+
+
+</manifest>

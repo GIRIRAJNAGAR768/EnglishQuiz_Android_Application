@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2"
+    xmlns:ad="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        ad:adSize="BANNER"
+        android:background="#80060608"
+        ad:adUnitId="@string/banner1">
+    </com.google.android.gms.ads.AdView>
+
+
+
+<LinearLayout
+    android:layout_below="@+id/adView1"
+    android:layout_above="@+id/adView2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:weightSum="2"
+    android:background="@drawable/back2"
+   >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="8sp"
+        android:layout_marginLeft="30sp"
+        android:layout_marginRight="30sp"
+        android:layout_marginBottom="20sp"
+
+        android:orientation="vertical">
+    <Button
+        android:id="@+id/texttospeak"
+        android:layout_width="match_parent"
+        android:layout_height="100sp"
+        android:textColor="#ffffff"
+        android:padding="15sp"
+        android:background="#c800a1f1"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:text="Text to Speak"
+        android:layout_marginBottom="10sp"
+        android:textAlignment="center"
+        android:textSize="25sp">
+    </Button>
+
+        <Button
+            android:id="@+id/speaktotext"
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:textColor="#ffffff"
+           android:background="#c800a1f1"
+            android:layout_gravity="center"
+            android:padding="15sp"
+            android:textStyle="bold"
+            android:text="Speak to Text"
+            android:layout_marginBottom="10sp"
+            android:textAlignment="center"
+            android:textSize="25sp">
+        </Button>
+
+</LinearLayout>
+    </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ad:adSize="BANNER"
+        android:layout_marginTop="2sp"
+        android:background="#80060608"
+        android:layout_alignParentBottom="true"
+        ad:adUnitId="@string/banner2">
+    </com.google.android.gms.ads.AdView>
+
+</RelativeLayout>
+

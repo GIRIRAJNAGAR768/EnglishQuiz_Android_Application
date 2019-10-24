@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ad="http://schemas.android.com/apk/res-auto"
+    android:background="#2A1C49">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="english.grammar.quizapp.TextToSpeak"
+        android:background="#2A1C49">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:padding="10sp"
+            android:layout_marginTop="42dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:text="Enter text here" />
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10sp"
+            android:textColor="#000000"
+            android:background="#ffffff"
+            android:textSize="20sp"
+            android:layout_marginRight="10sp"
+            android:padding="10sp"
+
+            >
+
+        </EditText>
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="300sp"
+            android:layout_height="70sp"
+            android:layout_gravity="center"
+            android:layout_margin="10sp"
+            android:textSize="25sp"
+            android:background="#AA2A55"
+            android:textColor="#ffffff"
+            android:text="Speak" />
+
+
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:padding="10sp"
+            android:text="Speed:" />
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="10sp"
+            android:layout_marginTop="10sp"
+            android:layout_marginBottom="30sp"/>
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ad:adSize="BANNER"
+            android:layout_marginTop="15sp"
+            ad:adUnitId="@string/banner1">
+        </com.google.android.gms.ads.AdView>
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ad:adSize="BANNER"
+            android:layout_marginTop="2sp"
+            ad:adUnitId="@string/banner2">
+        </com.google.android.gms.ads.AdView>
+    </LinearLayout>
+</ScrollView>

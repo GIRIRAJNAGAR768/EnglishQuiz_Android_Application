@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+       xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:app="http://schemas.android.com/apk/res-auto"
+       xmlns:tools="http://schemas.android.com/tools"
+       tools:context="english.grammar.quizapp.HomeActivity"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:background="@drawable/back2"
+       android:gravity="center"
+       android:orientation="vertical"
+       android:padding="10sp"
+       android:weightSum="2">
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal"
+          android:weightSum="2">
+
+         <LinearLayout
+
+             android:background="#C817B1A1"
+             android:id="@+id/item1"
+             android:layout_width="140sp"
+             android:layout_height="140sp"
+             android:layout_margin="8sp"
+             android:orientation="vertical"
+             android:weightSum="2">
+
+            <ImageView
+                android:background="@drawable/ic_que"
+                android:id="@+id/image1"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:layout_margin="20sp"
+                android:layout_gravity="center"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="40sp"
+                android:gravity="center"
+                android:padding="3sp"
+                android:text="Start Quiz"
+                android:textColor="#ffffff"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+         </LinearLayout>
+
+         <LinearLayout
+             android:id="@+id/item2"
+             android:layout_width="140sp"
+             android:layout_height="140sp"
+             android:layout_margin="8sp"
+             android:background="#c800a1f1"
+             android:orientation="vertical"
+             android:weightSum="2">
+
+            <ImageView
+                android:id="@+id/image2"
+                android:src="@drawable/ic_vintage_mic"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:layout_margin="20sp"
+                android:layout_gravity="center"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="match_parent"
+                android:layout_height="40sp"
+                android:gravity="center"
+                android:padding="3sp"
+                android:text="Spoken"
+                android:textColor="#ffffff"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+         </LinearLayout>
+
+      </LinearLayout>
+
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal"
+          android:weightSum="2">
+
+         <LinearLayout
+             android:id="@+id/item3"
+             android:layout_width="140sp"
+             android:layout_height="140sp"
+             android:layout_margin="8sp"
+             android:orientation="vertical"
+             android:background="#c87cbb00"
+             android:weightSum="2">
+
+            <ImageView
+                android:src="@drawable/ic_settings"
+                android:id="@+id/image3"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:layout_margin="20sp"
+                android:layout_gravity="center"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/text3"
+                android:layout_width="match_parent"
+                android:layout_height="40sp"
+                android:gravity="center"
+                android:padding="3sp"
+                android:text="Options"
+                android:textColor="#ffffff"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+         </LinearLayout>
+
+         <LinearLayout
+             android:id="@+id/item4"
+             android:layout_width="140sp"
+             android:layout_height="140sp"
+             android:layout_margin="8sp"
+             android:background="#c8f65314"
+             android:orientation="vertical"
+             android:weightSum="2">
+
+            <ImageView
+                android:src="@drawable/ic_gift"
+                android:id="@+id/image4"
+                android:layout_width="60sp"
+                android:layout_height="60sp"
+                android:layout_margin="20sp"
+                android:layout_gravity="center"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/text4"
+                android:layout_width="match_parent"
+                android:layout_height="40sp"
+                android:gravity="center"
+                android:padding="3sp"
+                android:text="More Apps"
+                android:textColor="#ffffff"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+         </LinearLayout>
+
+      </LinearLayout>
+
+
+   </LinearLayout>
+

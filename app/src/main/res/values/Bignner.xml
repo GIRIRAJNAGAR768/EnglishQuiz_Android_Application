@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="bigg_one">
+        <item> Almost every day.#On Tuesday.#For two hours.# With John.#How often do you play tennis?</item>
+        <item>In the cafeteria.#Sandwich.#With Jane.#At 12:00.#Where do you usually eat lunch?</item>
+        <item>For three hours.#With Bob.#In my room#English#How long did you study last night?</item>
+        <item>I like spy novels.#Yes, I do.#No, I don\'t#I will#What kind of novels do you like?</item>
+        <item>I\'m a piano teacher.# I work every day.#I worked for two hours.#I worked for one hours.#What kind of work do you do?</item>
+        <item>About two hours.#In my living room.#I watch the news.#On Tuesday.#How many hours a day do you watch TV?</item>
+        <item>Tuesday.#In the morning.#Every day.#Last week.#What is your busiest day of the week?</item>
+        <item>I agree with you.#I agree you.#I agree to you.#I agree for you.#My mother is a good cook.</item>
+        <item>Television.#For one hour.#Yes#On Friday.#What does "TV" mean?</item>
+        <item>D-O-G#No#I don\'t#Cat#How do you spell "dog"?</item>
+        <item>Are#Is#Was#are#____ Sara and Mary your sisters?</item>
+        <item>No, he isn\'t.#No, he is\'nt.#Yes, she is.#Yes, he was#Is your husband American?</item>
+        <item>Yes, I am.#Yes, you are.#No, he\'s not.#No, you aren\'t.#Are you from Texas?</item>
+        <item>at#on#to#with#Grandpa is ______ the park.</item>
+        <item>How#Whose#Who#What#Hi! __ are you today?</item>
+        <item>is fixing#is fix#are fixing#is fixed#Richard ___his bicycle.</item>
+        <item>dishes#TV#movie#her book#She\'s washing the ___.</item>
+        <item>How do#Do#How to#Does#____ you spell that?</item>
+        <item>Mr.#Mrs.#Mr#Ms.#My husband is ___ Lee.</item>
+        <item>This#These#I #You#Hello, Steve! ___is Jackie.</item>
+        <item>are#of#are warning#is warning#These pants ______ mine; that jacket is yours.</item>
+        <item>Yes, they are bigger!#Yes, are.#No, those dogs are the bigger.#No, dogs are the biggest.#Are these cats bigger than those dogs?  ______</item>
+        <item>blew#blow#blown#blowed#The wind ______ hard all night.</item>
+        <item>was#were#been#being# CHANGE this verb TO PAST TENSE:  is  </item>
+        <item>fought#fighted#fighed#fough#CHANGE this verb TO PAST TENSE: fight</item>
+        <item>got#gotten#gat#get#CHANGE this verb TO PAST TENSE:  get</item>
+        <item>because#but#except#during#We get good grades ______ we study.</item>
+        <item>awake#weike#spleeping#unconscious#Which is the OPPOSITE?  asleep</item>
+        <item>ought to#should to#can#would# After all this rain, tomorrow ______ be sunny.</item>
+        <item>into#to#onto#inside#The Olympic champion dove ______ the swimming pool from ten meters high.</item>
+    </string-array>
+    <string-array name="bigg_two">
+        <item> I swam.#I am swimming.#I swim.#I will swim.#What did you do yesterday?</item>
+        <item>Coffee.#Saturday evening.#Two.#With my friends.#What do you like to drink?</item>
+        <item>Spaghetti#At six.#With my family#At home.#What did you eat last night?</item>
+        <item>I\'m eating.#I ate.#I will be eating.#I have eaten#What are you doing?</item>
+        <item>I\'ll play soccer.# I play soccer.#I played soccer.#I was playing soccer.#What will you do this afternoon?</item>
+        <item>I don\'t think so.#I don\'t think it.#I don\'t think.#I don\'t think about.#It seems to me that most restaurants are too expensive.</item>
+        <item>At school.#At eight.#For three hours.#No, he isn\'t.#Where\'s Mike?</item>
+        <item>At home.#With John.#In the evening.#About one hour.#Where do you do your homework?</item>
+        <item>Last night.#Spaghetti.#With Jane.#About 30 minutes.#When did you go to that restaurant?</item>
+        <item>About four days ago.#A picture of Jane.#Seven pictures.#With my camera.#When was the last time you took a picture?</item>
+        <item>Have#Did#Do#Were#____ you ever visited London?</item>
+        <item>on#at#to#in#She works ____ Saturday.</item>
+        <item>By Car#In Car#By The Car#On Car#How do you get to work?____ </item>
+        <item>Yes, I do#Yes, I Like#Yes, I Likes#Yes, I does#Do you like classical music?____ </item>
+        <item>is standing#is stand#stand#standing#Where is Mary? She____ over there.</item>
+        <item>I\'d like#I like#I\'d want#I\'m like# I am hungry.____something to eat, please.</item>
+        <item>was#has#is#did#He____ born in 1963 in America.</item>
+        <item>smaller#smallest#as small#mare small#Switzerland is____ than Britain.</item>
+        <item>most expensive#more expensive#expensivest#as expensive#Motor racing is the____ sport in the world.</item>
+        <item>easily#easy#easier#good#He passed his English exam very____ </item>
+        <item>bit#bited#bitted#bitten#The little dog ______ my leg.</item>
+        <item>said#sain#sayed#saying#CHANGE this verb TO PAST TENSE:  say</item>
+        <item>Do you like#Like#Are you liked by#You like#___ your new job?</item>
+        <item>Why#When#Where#Who#____ are you mad?  Because you are late!</item>
+        <item>get off#get over#get on#get down#We must____ the train at the next stop.</item>
+        <item>wait#avoid#like#attempt#I\'m sorry, you will just have to ____.</item>
+        <item>Yes, I do.#I always brushing my teeth.#I twice a day brush my teeth.#Yes, I brush the teeth after every meal.#Do you brush your teeth after every meal?_____</item>
+        <item>There are millions and millions.#There are much fish in the sea.#There are many fishes in the sea.#Are there millions of fish in the sea.#How many fish are there in the sea?  ______</item>
+        <item>Yes, there is.#Yes, is there.#No, isn\'t.#No, they isn\'t.#Is there a doctor in the house?  ____</item>
+        <item>I wasn\'t in town.#I was with he and she.#I wasn\'t to the office.#I was at the home.#Where were you yesterday?____</item>
+
+    </string-array>
+    <string-array name="bigg_three">
+
+        <item>What\'s#What#Was#Were#____ Bill doing?</item>
+        <item>an#a#the#nothing#She is _____excellent student.</item>
+        <item>are#is#was#have#Some of us______ married.</item>
+        <item>wears#wear#weared#worn#One of us_______ glasses.</item>
+        <item>Are#Do#Did#Was#___ you allergic to cats?</item>
+        <item>is#have#has#were#Her cat ___ five years old.</item>
+        <item>is#has#are#were#How much crime ____ there in your country?</item>
+        <item>are planning#is plannning#are planing#is planing# Mr. and Mrs. Patel ___ a trip to San Antonio.</item>
+        <item>He\'s going to#He going to#He\'ll to#He\'s going#____ see a dermatologist.</item>
+        <item>walk#walks#walking#walked#Can he______ on his ankle?</item>
+        <item>left#leaving#leaves#leave#She stood up and______ the room.</item>
+        <item>did not go#went not#did not went #does not went #He was very busy so he_______ to the party.</item>
+        <item>got#gets#get#is getting#She______ up early yesterday.</item>
+        <item>found#founds#finds#finding#Most of the students in my class __the interviews very interesting.</item>
+        <item>on#at#in#from#His house used to be ___ Main Street, but he doesn\'t live there any more.</item>
+        <item>at#in#on #for#He comes to school ______ 9:00 a.m. every day.</item>
+        <item>an#a#the#nothing#It was______ exciting movie.</item>
+        <item>studying#studies#study#to studied#He is_______ at the library.</item>
+        <item> is there# are there# there is#there are#How much traffic______ in your city?</item>
+        <item>have#has#is#be#Does it _____ short hair?</item>
+        <item>did#was#went#have#When ____ you go to the USA? Last year.</item>
+        <item>No, she didn\'t#No, she didn\'t stay#No, she didn\'t stayed#No, she stayed not#Did she stay with friends? ____</item>
+        <item>been#gone#was#went#She has never ____ to New York.</item>
+        <item>I\'ll get#I\'m getting#I get#I\'d get#I haven\'t got any money. Never mind. ____ some from the bank</item>
+        <item>in#at#to#on#I stay at home ____ the morning.</item>
+        <item>there are many on#are some on#are there many on#there are some to#Are there any good restaurants around here?  Yes, ______ the highway.</item>
+        <item>I\'m the secretary.#I are a secretary.#I am my employee.#he is the president of them.#Are you the president of this company?  No, ___</item>
+        <item>were they#you are been#are been#was#How long ______ in Spain on vacation last summer?</item>
+        <item>Before#To#From#While#___ the war, most Italians were farmers.</item>
+        <item>While#Through#During#By#___ my wife sleeps, I watch TV late at night.</item>
+
+    </string-array>
+    <string-array name="bigg_four">
+
+        <item>I was sleeping.#I sleep.#I slept.#I will be sleeping.#What were you doing last night at 7:00?</item>
+        <item>After school.#Last night.#To Jane.#Last Morning#When will you mail that letter?</item>
+        <item>I\'ll take a bath.#I took a bath#I take a bath.#I have taken bath#What are you going to do after dinner?</item>
+        <item>For four years.#About 50 cm.#In my room.#By myself.#How long have you been playing the trumpet?</item>
+        <item>I sleep 7 hours.#I have slept 7 hours#I am sleeping 7 hours.#I slept 7 hours.#How many hours a day do you sleep?</item>
+        <item>Two times a week.#Two pages.#Two people.#Two hours.#How often do you write letters?</item>
+        <item>At a liquor store.#When you are twenty years old.#About two bottles.#With Jane.#Where can I buy beer?</item>
+        <item>Swimming.#Swim.#run.#Done.#What\'s your favorite sport?</item>
+        <item>Yesterday.#Tomorrow.#Near the Station#Today#When was the last time you went shopping?</item>
+        <item>At least once a day.#In the evening?#For about 30 minutes.#In the Morning.#How often do you speak on the telephone?</item>
+        <item>Three times.#Three people.Three people.#Three days.#Three Month#How many times have you gone camping?</item>
+        <item>since#after#for#at#He hasn\'t been in jail____ that time.</item>
+        <item>for#after#during#in#Maggie broke her leg and had to stay in the hospital______ two days.</item>
+        <item>her#hers#her\'s#she\'s#That book isn\'t______.</item>
+        <item>went#goes#has gone#go#He ______ to Chicago with his brother four days ago.</item>
+        <item>is#are#were#be#Some of this book ______ not very interesting.</item>
+        <item>goes#go#gos#gose#The average American _____ to the dentist once a year.</item>
+        <item>eat#eats#eated#ates#Most Portuguese _____ fish regularly.</item>
+        <item>speak#speaks#spokes#spoken#Many people ________ Spanish in the city.</item>
+        <item>to get#getting#get#got#It takes twenty minutes for me ______ to work.</item>
+        <item>too much#many#more then one#too many#The teacher often gives us ______ homework.</item>
+        <item>is#has#are#have#The mail ______ not here yet.</item>
+        <item>is#are#has#have#Having too many credit cards ______ a bad idea.</item>
+        <item>much#many#enough#more#I have too ______ homework to do.</item>
+        <item>in#at#on#to#The sun rises ______ the east.</item>
+        <item>have#has#is#are#The jeans ______ three pockets</item>
+        <item>there are many on#are some on#are there many on#there are some to#Are there any good restaurants around here?  Yes,___ the highway.</item>
+        <item>is worse.#worse is.#is worst.#is badder.#English grammar is the worst grammar of any language.  No, it isn\'t. German grammar ______</item>
+        <item>My sister writes books.#She work in a factory.#She teaches to children English.#Works at the school.#What does your sister do?  ____</item>
+        <item>The#An#These#Many#___ city museum is closed today.</item>
+
+    </string-array>
+    <string-array name="bigg_five">
+
+        <item>the#a#an#that#He is one of ___ smartest people I know.</item>
+        <item>(Nothing)#The#A#An#___ milk is good for you.</item>
+        <item> (Nothing)#the#a#some#I can\'t believe I failed ___ yesterday\'s test!</item>
+        <item>a#the#an#those#Do you have ___ dictionary that I can borrow?</item>
+        <item>get up# got up#gets up#has gotten up#They go to school together in the morning, and always ______ at the same time.  </item>
+        <item>worries#worry#worried#worrys#Tina is a good student, but she always _____ about her grades.</item>
+        <item>finishes#finish#finishs#finished#Sam is a dentist. He usually _____ work at 5:00 PM.</item>
+        <item>thinks#thoughts#think#thinking#Roberto often _____ about his good friends in Mexico.</item>
+        <item>goes#go#gone#gos#She seldom _____ to a movie.</item>
+        <item>washes#washs#wash#is wash#Tom seldom _____ dishes.</item>
+        <item>drinks#drink#drunk#drinkes#Sue never __________ coffee.</item>
+        <item>cries#crys#cry#cryed#The baby always ____.</item>
+        <item>stays#staies#stay#stayes#She always _______ at home to take care of the baby.</item>
+        <item>pays#paies#pay#paied#He never _____ his bill on time.</item>
+        <item>to follow#following#follow#folloed#She encouraged other young women ______ their dreams.</item>
+        <item>stopped#stoped#stopping#stop#The radio contact with her airplane suddenly ______.</item>
+        <item>jumped#jumpped#jump#jumping#He ___ several inches farther than the German athlete.</item>
+        <item>made#make#makes#maked#In 1620, the Pilgrims______ a difficult trip across the ocean from England.</item>
+        <item>ate#eat#eaten#eats#In those days, the pilgrims ______ (eat) deer, not turkey.</item>
+        <item> found#finds#finding#finded#He __ the weather and scenery he needed to finish his movie.</item>
+        <item>Yes, I can#In a pool#Very good#very bad#Can you swim?</item>
+        <item>To work#No, he doesn\'t#At 3:00 PM#for study#Did he go to work or to school?</item>
+        <item>Yes, it has#In five minutes#It\'s English#it;s exam today#Has your class finished?</item>
+        <item>On the table#Because it\'s lost#No, you didn\'t#it;s mine#Where is my pen?</item>
+        <item> I visited Judy#I visit my mother#Yes, I did#Yes, I do#Who did you visit?</item>
+        <item>Did you watch#Watched you#Watchen#You watched#____ the football game last night?  No, last night we went out to dinner.</item>
+        <item>was#were#will#where#George Washington ______ the first President of the United States.</item>
+        <item>What type of fruit do#What kind of fruit#How many fruit do#Types of fruit do#____ you like?  I like grapes and figs.</item>
+        <item>Where are you going?#Why are you going?#What are you going?#Where you going?#Choose the CORRECT QUESTION:  ______?  I\'m going to work</item>
+        <item>how#where#when#why#Hello, ______ are you?  I\'m fine thanks, and you?</item>
+
+    </string-array>
+    <string-array name="bigg_six">
+
+        <item> played#plays#plaied#play#I ______ chess with James last week.</item>
+        <item>snowed#snows#snew#snowing#It _____ last winter.</item>
+        <item>Did#Do#Does#Dos#____ she take an English class last year?</item>
+        <item>watched#watches#watch#watchs#I _____ TV yesterday evening.</item>
+        <item>last#yesterday#next#ago#A: Are you going to the market today? B: No. I went there _____ Friday.</item>
+        <item>call#calls#calling#called#He’ll ______ us this evening.</item>
+        <item>reads#read#is reading#is read#Mary ______ newspapers every day.</item>
+        <item>is writing#is writeing#write#wrote#Jean is very busy right now. She _____ some letters.</item>
+        <item>stopped#stoped#stopping#stop#It finally_____ raining.</item>
+        <item>her#her\'s#she\'s#his#She wanted to get ______ money back.</item>
+        <item>My mother\'s sister\'s daughter is my cousin. #She is my wife.#She my cousin.#Is my mother\'s niece.#Who is your mother\'s sister\'s daughter?  ______</item>
+        <item>The movie was very long and very boring.#Was fantastic.#It was better then his first movie.#It was a action movie.#Choose the CORRECT RESPONSE:How was the movie last night?  ______</item>
+        <item>through#under#in#across#The police went ______ all of Karl\'s things, but they didn\'t find any guns.</item>
+        <item>do you normally work#work you normally#are you normally working#you work normally#What hours ______?  From nine to five, Monday through Friday.</item>
+        <item>who#where#what#how#_____ are you having dinner with?  I\'m having dinner with Junko.</item>
+        <item>November second#November two.#November twice.#November two .#When\'s your birthday?</item>
+        <item>New York.#1982.#At school.#At home.#Where are you from?</item>
+        <item>By train.#With train.#In train.#On Train#How do you get to school?</item>
+        <item>I ( aai )#me#her#him#David and ______ are friends.</item>
+        <item>its#it\'s#it#its'#The dog is eating ______ food</item>
+        <item>their#them#their#they#They love ______ country.</item>
+        <item>in#on#at#with#He is very interested ______ sports.</item>
+        <item>how#where#who#why# Hello, ______ are you?  I\'m fine thanks, and you?</item>
+        <item>wanted#went#spoke#died#He ______ all of them.</item>
+        <item>My place#It is yours#Yes, we shall#Not you#Shall we go to your place or mine?</item>
+        <item>At 7 PM#No, she won\'t#From France#In India#When will Lucy arrive?</item>
+        <item>It was Ryan#It\'s midnight#Yes, I called#I will#Who called here so late?</item>
+        <item>No, I don\'t# At the cinema#Yes, I watched it#Nothing#Do you want to watch a movie?</item>
+        <item>and#because#except#while#She cannot talk ______ walk at the same time.</item>
+        <item>when#but#and#while#You can have ice cream ______ you finish your dinner.</item>
+
+    </string-array>
+    <string-array name="bigg_seven">
+
+        <item>in#on#at#under#On a cold winter night, I love to get ____ a hot bath and read a book.</item>
+        <item>the most intelligent#the intelligentest#the more intelligent#most intelligent #John is ___ boy in our class. </item>
+        <item>better than#best than#more good than#gooder than#In ice-hockey, Russia is _____ Jamaica.</item>
+        <item>Those#These#This#That#Quick! Look over there! ___ people look like they are from Germany.</item>
+        <item> Almost every day.#On Tuesday.#For two hours.# With John.#How often do you play tennis?</item>
+        <item>In the cafeteria.#Sandwich.#With Jane.#At 12:00.#Where do you usually eat lunch?</item>
+        <item>For three hours.#With Bob.#In my room#English#How long did you study last night?</item>
+        <item>I like spy novels.#Yes, I do.#No, I don\'t#I will#What kind of novels do you like?</item>
+        <item>I\'m a piano teacher.# I work every day.#I worked for two hours.#I worked for one hours.#What kind of work do you do?</item>
+        <item>About two hours.#In my living room.#I watch the news.#On Tuesday.#How many hours a day do you watch TV?</item>
+        <item>Tuesday.#In the morning.#Every day.#Last week.#What is your busiest day of the week?</item>
+        <item>I agree with you.#I agree you.#I agree to you.#I agree for you.#My mother is a good cook.</item>
+        <item> I swam.#I am swimming.#I swim.#I will swim.#What did you do yesterday?</item>
+        <item>Coffee.#Saturday evening.#Two.#With my friends.#What do you like to drink?</item>
+        <item>Spaghetti#At six.#With my family#At home.#What did you eat last night?</item>
+        <item>I\'m eating.#I ate.#I will be eating.#I have eaten#What are you doing?</item>
+        <item>I\'ll play soccer.# I play soccer.#I played soccer.#I was playing soccer.#What will you do this afternoon?</item>
+        <item>I don\'t think so.#I don\'t think it.#I don\'t think.#I don\'t think about.#It seems to me that most restaurants are too expensive.</item>
+        <item>At school.#At eight.#For three hours.#No, he isn\'t.#Where\'s Mike?</item>
+        <item>since#after#for#at#He hasn\'t been in jail _______ that time.</item>
+        <item>for#after#during#in#Maggie broke her leg and had to stay in the hospital ______ two days.</item>
+        <item>her#hers#her\'s#she\'s#That book isn\'t _____.</item>
+        <item>went#goes#has gone#go#He _______ to Chicago with his brother four days ago.</item>
+        <item>is#are#were#be#Some of this book ______ not very interesting.</item>
+        <item>goes#go#gos#gose#The average American ______ to the dentist once a year.</item>
+        <item>the#a#an#that#He is one of ___ smartest people I know.</item>
+        <item>(Nothing)#The#A#An#___ milk is good for you.</item>
+        <item> (Nothing)#the#a#some#I can\'t believe I failed ___ yesterday\'s test!</item>
+        <item>a#the#an#those#Do you have ___ dictionary that I can borrow?</item>
+        <item>get up# got up#gets up#has gotten up#They go to school together in the morning, and always _____ at the same time.  </item>
+
+    </string-array>
+
+
+
+</resources>

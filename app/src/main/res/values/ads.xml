@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="banner1">ca-app-pub-3303054497534652/5350206206</string>
+     <string name="banner2">ca-app-pub-3303054497534652/3810017536</string>
+     <string name="inter1">ca-app-pub-3303054497534652/4188812557</string>
+     <string name="inter2">ca-app-pub-3303054497534652/5019033718</string>
+
+
+ <!--<string name="banner1">ca-app-pub-3940256099942544/6300978111</string>
+ <string name="banner2">ca-app-pub-3940256099942544/6300978111</string>
+ <string name="inter1">ca-app-pub-3940256099942544/1033173712</string>
+ <string name="inter2">ca-app-pub-3940256099942544/1033173712</string>-->
+</resources>
